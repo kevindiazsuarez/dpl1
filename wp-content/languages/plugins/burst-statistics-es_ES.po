@@ -1,0 +1,2860 @@
+# Translation of Plugins - Burst Statistics &#8211; Privacy-Friendly Analytics for WordPress - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Burst Statistics &#8211; Privacy-Friendly Analytics for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-01-22 13:26:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Burst Statistics &#8211; Privacy-Friendly Analytics for WordPress - Stable (latest release)\n"
+
+#. translators: 1: filter label, 2: filter value
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:268
+msgid " and %1$s is %2$s"
+msgstr " y %1$s es %2$s"
+
+#. translators: 1: filter label, 2: filter value
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:11
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:12
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:8
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:248
+msgid "%1$s is %2$s"
+msgstr "%1$s es %2$s"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:956
+msgid "Generate shareable link"
+msgstr "Generar enlace para compartir"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:955
+msgid "Generating…"
+msgstr "Generando…"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:926
+msgid "Link expires in:"
+msgstr "El enlace caduca en:"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:910
+msgid "Generate a private, shareable link to a live view of this dashboard."
+msgstr "Genera un enlace privado y compartible para ver en vivo este panel de control."
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:905
+msgid "Share dashboard"
+msgstr "Compartir panel"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:878
+msgid "Failed to revoke link"
+msgstr "No se pudo revocar el enlace"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:874
+msgid "Link revoked"
+msgstr "Enlace revocado"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:857
+msgid "Failed to copy link"
+msgstr "No se pudo copiar el enlace"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:851
+msgid "Link copied!"
+msgstr "¡Enlace copiado!"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:830
+msgid "Link created and copied to clipboard!"
+msgstr "¡Enlace creado y copiado al portapapeles!"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:813
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:836
+msgid "Failed to generate share link"
+msgstr "No se pudo generar el enlace para compartir"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:601
+msgid "Active shared links"
+msgstr "Enlaces compartidos activos"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:498
+msgid "Copy link"
+msgstr "Copiar enlace"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:498
+msgid "Copied!"
+msgstr "¡Copiado!"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:390
+msgid "current view"
+msgstr "vista actual"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:366
+msgid "Allow access to these tabs:"
+msgstr "Permitir acceso a estas pestañas:"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:342
+msgid "Allow viewer to:"
+msgstr "Permitir al visitante:"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:325
+msgid "Advanced options"
+msgstr "Opciones avanzadas"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:10
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:11
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:7
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:234
+msgid "Filter:"
+msgid_plural "Filters:"
+msgstr[0] "Filtro:"
+msgstr[1] "Filtros:"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:10
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:11
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:7
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:221
+msgid "Date range:"
+msgstr "Rango de fechas:"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:10
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:11
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:7
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:211
+msgid "Initial tab:"
+msgstr "Pestaña inicial:"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:10
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:11
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:7
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:205
+msgid "What you're sharing:"
+msgstr "Lo que estás compartiendo:"
+
+#. translators: %d is the number of hours.
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:10
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:11
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:7
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:158
+msgid "Expires soon"
+msgstr "Expira pronto"
+
+#. translators: %d is the number of days.
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:7
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:8
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:4
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:152
+msgid "Expires in 1 hour"
+msgstr "Expira en 1 hora"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:4
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:5
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:144
+msgid "Expires in 1 day"
+msgstr "Expira en 1 día"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:4
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:5
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:136
+msgid "Expired"
+msgstr "Caducado"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:4
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:5
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:129
+msgid "Never expires"
+msgstr "Nunca expira"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:4
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:5
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:43
+msgid "Change filters"
+msgstr "Cambiar filtros"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:4
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:5
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:42
+msgid "Change date range"
+msgstr "Cambiar el rango de fechas"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:4
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:5
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:24
+msgid "24 hours"
+msgstr "24 horas"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Settings/SettingsFooter.jsx:19
+msgid "Validating…"
+msgstr "Validando…"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Settings/SettingsFooter.jsx:14
+msgid "Saving…"
+msgstr "Guardando…"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/ExportSettingsField.jsx:122
+msgid "Exporting..."
+msgstr "Exportando..."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/ExportSettingsField.jsx:49
+msgid "No settings available to export."
+msgstr "No hay configuraciones disponibles para exportar."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/ExportSettingsField.jsx:93
+msgid "Failed to export settings."
+msgstr "No se pudo exportar la configuración."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/ExportSettingsField.jsx:90
+msgid "Settings exported successfully!"
+msgstr "¡Configuraciones exportadas con éxito!"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:305
+msgid "Import"
+msgstr "Importar"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:302
+msgid "Importing..."
+msgstr "Importando..."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:187
+msgid "An unexpected error occurred while importing settings."
+msgstr "Ocurrió un error inesperado al importar la configuración."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:179
+msgid "Settings imported successfully!"
+msgstr "¡Configuraciones importadas con éxito!"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:121
+msgid "Settings not loaded. Please refresh the page."
+msgstr "No se cargaron los ajustes. Por favor, actualiza la página."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:107
+msgid "The file does not contain valid settings data."
+msgstr "El archivo no contiene datos de configuración válidos."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:103
+msgid "The JSON file is malformed or invalid."
+msgstr "El archivo JSON está mal formado o es inválido."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:86
+msgid "Failed to read the file."
+msgstr "No se pudo leer el archivo."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:281
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:287
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:291
+msgid "Upload settings file (.json)"
+msgstr "Subir archivo de configuración (.json)"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:263
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:264
+msgid "Clear file selection"
+msgstr "Borrar selección de archivo"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:69
+#: includes/Admin/App/src/components/Fields/UploadField.jsx:70
+msgid "You can only upload .json files!"
+msgstr "¡Solo puedes subir archivos .json!"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:4
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:5
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:27
+msgid "Never"
+msgstr "Nunca"
+
+#: includes/Admin/Statistics/class-query-data.php:777
+msgid "Added to cart"
+msgstr "Añadido al carrito"
+
+#: includes/Admin/Statistics/class-query-data.php:776
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:305
+msgid "Avg. order value"
+msgstr "Valor promedio del pedido"
+
+#: includes/Admin/Statistics/class-query-data.php:775
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:108
+msgid "Exit rate"
+msgstr "Tasa de salida"
+
+#: includes/Admin/Statistics/class-query-data.php:774
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:102
+msgid "Entrances"
+msgstr "Entradas"
+
+#: includes/Admin/Statistics/class-query-data.php:773
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:143
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:298
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:397
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:467
+msgid "Sales conv. rate"
+msgstr "Tasa de conversión de ventas"
+
+#: includes/Admin/Statistics/class-query-data.php:772
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:150
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:213
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:404
+msgid "Page value"
+msgstr "Valor de la página"
+
+#: includes/Admin/Statistics/class-query-data.php:748
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:115
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:192
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:277
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:369
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:446
+msgid "Goal completions"
+msgstr "Completaciones de objetivos"
+
+#: includes/Admin/Statistics/class-query-data.php:746
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:121
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:375
+msgid "Goal conv. rate"
+msgstr "Tasa de conv. de objetivos"
+
+#: includes/Admin/Statistics/class-query-data.php:745
+msgid "Avg. session duration"
+msgstr "Duración promedio de la sesión"
+
+#: includes/Admin/Statistics/class-query-data.php:744
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:95
+msgid "Avg. time on page"
+msgstr "Tiempo promedio en la página"
+
+#: includes/Admin/Mailer/class-mail-reports.php:45
+msgid "E-mail report scheduled to send on next cron job."
+msgstr "Informe por e-mail programado para enviarse en el próximo trabajo cron."
+
+#: includes/Admin/App/config/tasks.php:153
+msgid "New: save or share your filtered view by simply copying the URL or bookmarking it."
+msgstr "Nuevo: guarda o comparte tu vista filtrada simplemente copiando la URL o marcándola como favorita."
+
+#: includes/Admin/App/config/tasks.php:65
+msgid "Your WordPress cron hasn’t been triggered for over 24 hours. As a result, Burst can’t update first visit and bounce data until it runs again."
+msgstr "Tu cron de WordPress no se ha activado en más de 24 horas. Como resultado, Burst no puede actualizar los datos de la primera visita y el rebote hasta que se ejecute de nuevo."
+
+#: includes/Admin/App/config/menu.php:114
+msgid "Beta"
+msgstr "Beta"
+
+#: includes/Admin/App/config/menu.php:91
+msgid "Manage settings"
+msgstr "Administrar ajustes"
+
+#: includes/Admin/App/config/fields.php:354
+msgid "Upload a previously exported settings file to overwrite your current settings."
+msgstr "Sube un archivo de configuración exportado previamente para sobrescribir tus configuraciones actuales."
+
+#: includes/Admin/App/config/fields.php:353
+msgid "Import settings"
+msgstr "Importar configuraciones"
+
+#: includes/Admin/App/config/fields.php:344
+msgid "Download a file containing your current settings. Use this for migrating or copying settings to another website."
+msgstr "Descarga un archivo con tus configuraciones actuales. Úsalo para migrar o copiar configuraciones a otro sitio web."
+
+#: includes/Admin/App/config/fields.php:343
+msgid "Export settings"
+msgstr "Exportar configuraciones"
+
+#: includes/Admin/App/config/fields.php:342
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/ExportSettingsField.jsx:117
+#: includes/Admin/App/src/components/Fields/ExportSettingsField.jsx:123
+msgid "Download settings file"
+msgstr "Descargar archivo de configuración"
+
+#: includes/Admin/App/config/fields.php:327
+msgid "Available when \"Merge tracking settings and script\" is activated. If you enable this, the javascript filename does not include \"burst\", making it less obvious."
+msgstr "Disponible cuando \"Fusionar configuraciones de seguimiento y script\" está activado. Si activas esto, el nombre del archivo javascript no incluirá \"burst\", haciéndolo menos obvio."
+
+#: includes/Admin/App/config/fields.php:325
+msgid "Enable ghost mode"
+msgstr "Activar el modo fantasma"
+
+#: includes/Admin/App/config/fields.php:316
+msgid "This option is only available when the WordPress can write to the uploads directory. Please ensure that the WordPress installation has write permissions to \"wp-content/uploads/burst/\"."
+msgstr "Esta opción solo está disponible cuando WordPress puede escribir en el directorio de subidas. Por favor, asegúrate de que la instalación de WordPress tenga permisos de escritura en \"wp-content/uploads/burst/\"."
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/routes/sales.jsx:32
+msgid "You do not have permission to view sales data."
+msgstr "No tienes permiso para ver los datos de ventas."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/Field.jsx:198
+msgid "Value must be at most %s"
+msgstr "El valor debe ser como máximo %s"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/Field.jsx:188
+msgid "Value must be at least %s"
+msgstr "El valor debe ser al menos %s"
+
+#: includes/Admin/App/build/540.748ae73795ccffb3a415.js:1
+#: includes/Admin/App/src/routes/sales.jsx:44
+msgid "Unauthorized Access"
+msgstr "Acceso no autorizado"
+
+#: includes/Admin/App/build/540.748ae73795ccffb3a415.js:1
+#: includes/Admin/App/src/routes/sales.jsx:46
+msgid "Go Back"
+msgstr "Regresar"
+
+#: includes/Admin/Statistics/class-query-data.php:771
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:1
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:2
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:136
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:206
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:291
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:390
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:460
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:521
+msgid "Revenue"
+msgstr "Ingresos"
+
+#: includes/Admin/Statistics/class-query-data.php:769
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:504
+msgid "Product"
+msgstr "Producto"
+
+#: includes/Admin/Posts/class-posts.php:275
+msgid "Total number of pageviews for today."
+msgstr "Número total de vistas de página para hoy."
+
+#: includes/Admin/class-admin.php:275
+#: includes/Admin/Statistics/class-query-data.php:770
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:1
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:2
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:129
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:199
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:284
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:383
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:453
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:516
+msgid "Sales"
+msgstr "Ventas"
+
+#: includes/Admin/App/config/tasks.php:85
+msgid "Thanks for using Burst for over a year! To show our appreciation, we have a surprise for you as a loyal user!"
+msgstr "¡Gracias por usar Burst por más de un año! Para mostrar nuestro agradecimiento, ¡tenemos una sorpresa para ti como usuario leal!"
+
+#: includes/Admin/App/config/tasks.php:56
+msgid "New in Burst Pro: dedicated sales dashboard for WooCommerce and Easy Digital Downloads."
+msgstr "Nuevo en Burst Pro: panel de ventas dedicado para WooCommerce y Easy Digital Downloads."
+
+#: includes/Admin/Statistics/class-query-data.php:738
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:56
+msgid "Domain"
+msgstr "Dominio"
+
+#: includes/Admin/App/config/tasks.php:144
+msgid "Burst detected multiple domains being used to visit the website. If you want to be able to differentiate between domains, you can enable filtering by domain in the settings."
+msgstr "Burst detectó que se están usando múltiples dominios para visitar el sitio web. Si quieres poder diferenciar entre dominios, puedes activar el filtrado por dominio en la configuración."
+
+#: includes/Admin/App/config/fields.php:291
+msgid "If you use multiple domains on your website, you can enable this to start storing the domain, so you can filter your data by domain."
+msgstr "Si usas múltiples dominios en tu sitio web, puedes activar esto para empezar a guardar el dominio, así podrás filtrar tus datos por dominio."
+
+#: includes/Admin/App/config/fields.php:290
+msgid "Enable filtering by domain"
+msgstr "Activar el filtrado por dominio"
+
+#: includes/Admin/Posts/class-posts.php:285
+msgid "Total number of pageviews of the past 30 days."
+msgstr "Número total de vistas de página de los últimos 30 días."
+
+#: includes/Admin/Posts/class-posts.php:283
+msgid "Total number of pageviews, all time."
+msgstr "Número total de vistas de página, de todos los tiempos."
+
+#: includes/Admin/Posts/class-posts.php:281
+msgid "Total number of pageviews of the past year."
+msgstr "Número total de vistas de página del año pasado."
+
+#: includes/Admin/Posts/class-posts.php:279
+msgid "Total number of pageviews of the past 3 months."
+msgstr "Número total de vistas de página de los últimos 3 meses."
+
+#: includes/Admin/Posts/class-posts.php:277
+msgid "Total number of pageviews of the past 7 days."
+msgstr "Número total de vistas de página de los últimos 7 días."
+
+#: includes/Admin/Posts/class-posts.php:111
+msgid "Pageviews time range"
+msgstr "Rango de tiempo de vistas de página"
+
+#: includes/Admin/Posts/class-posts.php:85
+msgid "Pageviews date range"
+msgstr "Rango de fechas de vistas de página"
+
+#: includes/Admin/Posts/class-posts.php:38
+msgid "All time"
+msgstr "Todo el tiempo"
+
+#: includes/Admin/Posts/class-posts.php:37
+msgid "1 year"
+msgstr "1 año"
+
+#: includes/Admin/Posts/class-posts.php:36
+msgid "3 months"
+msgstr "3 meses"
+
+#: includes/Admin/Posts/class-posts.php:35
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:4
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:5
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:26
+msgid "30 days"
+msgstr "30 días"
+
+#: includes/Admin/Posts/class-posts.php:34
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:4
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:5
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:25
+msgid "7 days"
+msgstr "7 días"
+
+#. translators: %s: Metric name (e.g., "Pageviews", "Visitors")
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:17
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:454
+msgctxt "metric by location"
+msgid "%s per region"
+msgstr "%s por región"
+
+#. translators: %s: Metric name (e.g., "Pageviews", "Visitors")
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:16
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:449
+msgctxt "metric by location"
+msgid "%s per country"
+msgstr "%s por país"
+
+#. Translators: %d is the number of visitors, human-readable, e.g. 2.2k, or 1M.
+#: includes/Frontend/class-frontend-admin.php:82
+msgid "%s Pageviews"
+msgstr "%s Vistas de página"
+
+#: includes/Frontend/class-frontend-admin.php:85
+msgid "Total pageviews for the last 30 days."
+msgstr "Total de vistas de página en los últimos 30 días."
+
+#: includes/Admin/Debug/class-debug.php:147
+msgid "Burst WordPress transients"
+msgstr "Eliminar transitorios de WordPress"
+
+#: includes/Admin/class-tasks.php:291
+msgid "Milestone"
+msgstr "Hito"
+
+#. translators: %s is the milestone number (compact, e.g. 1k, 10k, 1M).
+#: includes/Admin/App/config/tasks.php:122
+msgid "You’ve hit %s pageviews this month!"
+msgstr "¡Has alcanzado %s vistas de página este mes!"
+
+#. translators: %d is the number of visits detected from a single user in 24
+#. hours.
+#: includes/Admin/App/config/tasks.php:77
+msgid "Burst has detected an anomalous number of visits (%1$d in 24 hours) from one user with UID %2$s. You can consider removing these hits by using the \"fix\" button, but if you're sure these are valid visits, you can dismiss this notice."
+msgstr "Burst ha detectado un número anómalo de visitas (%1$d en 24 horas) de un usuario con UID %2$s. Puedes considerar eliminar estos hits usando el botón \"arreglar\", pero si estás seguro de que son visitas válidas, puedes ignorar este aviso."
+
+#. translators: %d: error count, %s time of error.
+#: includes/Admin/App/config/tasks.php:110
+msgid "Please deactivate Burst (keep the data!), then activate again, to trigger a database upgrade."
+msgstr "Por favor, desactiva Burst (¡mantén los datos!), luego actívalo de nuevo para iniciar una actualización de la base de datos."
+
+#. translators: %d: error count, %s time of error.
+#: includes/Admin/App/config/tasks.php:110
+msgid "Burst has detecting missing database tables: %s."
+msgstr "Burst ha detectado tablas de base de datos faltantes: %s."
+
+#: includes/Admin/Debug/class-debug.php:166
+msgid "Burst Debug Information"
+msgstr "Información de depuración de Burst"
+
+#: includes/Admin/Debug/class-debug.php:160
+msgid "Used Constants"
+msgstr "Constantes usadas"
+
+#: includes/Admin/Debug/class-debug.php:156
+msgid "Debug Log"
+msgstr "Registro de depuración"
+
+#: includes/Admin/Debug/class-debug.php:142
+msgid "Burst WordPress options"
+msgstr "Opciones de Burst WordPress"
+
+#: includes/Admin/Debug/class-debug.php:138
+msgid "Burst Settings"
+msgstr "Configuración de Burst"
+
+#: includes/Admin/Debug/class-debug.php:134
+msgid "Burst Database Tables"
+msgstr "Tablas de la base de datos de Burst"
+
+#: includes/Admin/Debug/class-debug.php:130
+msgid "Location Data"
+msgstr "Datos de ubicación"
+
+#: includes/Admin/Debug/class-debug.php:126
+msgid "Detected Geo IP"
+msgstr "IP Geo detectada"
+
+#: includes/Admin/Debug/class-debug.php:121
+msgid "Geo IP File"
+msgstr "Archivo Geo IP"
+
+#: includes/Admin/Debug/class-debug.php:105
+msgid "No debug log entries found."
+msgstr "No se encontraron entradas en el registro de depuración."
+
+#: includes/Admin/class-tasks.php:290
+msgid "Offer"
+msgstr "Oferta"
+
+#: includes/Admin/Burst_Onboarding/steps.php:116
+msgid "Join our mailinglist and get 4 tips to improve conversions."
+msgstr "Únete a nuestra lista de correo y recibe 4 consejos para mejorar las conversiones."
+
+#. translators: %d: error count, %s time of error.
+#: includes/Admin/App/config/tasks.php:98
+msgid "Burst has detected %1$d PHP errors, the last one on %2$s. Detected errors:"
+msgstr "Burst ha detectado %1$d errores de PHP, el último fue el %2$s. Errores detectados:"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:396
+msgid "Step through matches"
+msgstr "Revisar coincidencias"
+
+#: includes/Admin/Statistics/class-query-data.php:749
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/hooks/useFilterDisplay.js:91
+msgid "Bounced visitors"
+msgstr "Visitantes rebotados"
+
+#: includes/Admin/App/config/fields.php:247
+msgid "Enable statistics shortcodes for use on your website."
+msgstr "Activa los shortcodes de estadísticas para usarlos en tu sitio web."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:483
+msgid "%s elements match your selector. Use arrow keys to cycle through matches."
+msgstr "%s elementos coinciden con tu selector. Usa las flechas del teclado para recorrer las coincidencias."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:441
+msgid "Set logged out mode"
+msgstr "Establecer modo desconectado"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:437
+msgid "Set logged in mode"
+msgstr "Activar modo de sesión iniciada"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:421
+msgid "Next match"
+msgstr "Próxima coincidencia"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:406
+msgid "Previous match"
+msgstr "Coincidencia anterior"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:381
+msgid "Preview panel, use arrow keys to navigate"
+msgstr "Panel de vista previa, usa las teclas de flecha para navegar"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:314
+msgid "Selects .nav-item elements that do not have the \"active\" class."
+msgstr "Selecciona los elementos .nav-item que no tienen la clase \"active\"."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:307
+msgid "Selects links whose href starts with \"https\"."
+msgstr "Selecciona enlaces cuyo href comienza con \"https\"."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:300
+msgid "Selects all <button> elements."
+msgstr "Selecciona todos los elementos <button>."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:293
+msgid "Selects the element with ID \"element-id\"."
+msgstr "Selecciona el elemento con el ID \"element-id\"."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:286
+msgid "Selects all elements with class \"class-name\"."
+msgstr "Selecciona todos los elementos con la clase \"class-name\"."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:281
+msgid "Selector Examples:"
+msgstr "Ejemplos de selectores:"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:274
+msgid "(Logged in)"
+msgstr "(Conectado)"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:273
+msgid "(Logged out)"
+msgstr "(Desconectado)"
+
+#. translators: 1: number of elements found 2: the URL of the preview 3: logged
+#. in/out status
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:264
+msgid "Found %1$d element on %2$s %3$s"
+msgid_plural "Found %1$d elements on %2$s %3$s"
+msgstr[0] "Se encontró %1$d elemento en %2$s %3$s"
+msgstr[1] "Se encontraron %1$d elementos en %2$s %3$s"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:238
+msgid "Warning: this element might be hidden via CSS."
+msgstr "Advertencia: este elemento podría estar oculto mediante CSS."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/SelectorField.jsx:152
+msgid "Warning: The current element is hidden via CSS."
+msgstr "Advertencia: El elemento actual está oculto mediante CSS."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/src/components/Common/DisabledBadge.jsx:17
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMapBlock.jsx:16
+#: includes/Admin/App/src/components/Upsell/GhostWorldMapBlock.jsx:17
+msgid "World View"
+msgstr "Vista Mundial"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/MapSettingsPopover.jsx:268
+msgid "Add patterns for colorblind accessibility"
+msgstr "Agregar patrones para accesibilidad de personas con daltonismo"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/MapSettingsPopover.jsx:262
+msgid "Colorblind Patterns"
+msgstr "Patrones para daltónicos"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/MapSettingsPopover.jsx:257
+msgid "Accessibility"
+msgstr "Accesibilidad"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/MapSettingsPopover.jsx:206
+msgid "Auto-select"
+msgstr "Selección automática"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/MapSettingsPopover.jsx:194
+msgid "A classification method determines how data values are grouped into ranges or categories to color regions on a choropleth map. The recommended method is based on the selected metric. For more information for each method, see the help icon next to each method."
+msgstr "Un método de clasificación determina cómo se agrupan los valores de datos en rangos o categorías para colorear regiones en un mapa de coropletas. El método recomendado se basa en la métrica seleccionada. Para más información sobre cada método, consulte el ícono de ayuda junto a cada método."
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/MapSettingsPopover.jsx:183
+msgid "Classification method"
+msgstr "Método de clasificación"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/MapSettingsPopover.jsx:151
+msgid "Metrics & options"
+msgstr "Métricas y opciones"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:332
+msgid "No metrics available for display."
+msgstr "No hay métricas disponibles para mostrar."
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:579
+msgctxt "statistic label"
+msgid "Method"
+msgstr "Método"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:566
+msgctxt "statistic label"
+msgid "Total"
+msgstr "Total"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:553
+msgctxt "statistic label"
+msgid "Median"
+msgstr "Mediana"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:540
+msgctxt "statistic label"
+msgid "Average"
+msgstr "Promedio"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:526
+msgctxt "statistic label"
+msgid "Range"
+msgstr "Rango"
+
+#. translators: %d: Number of visitors with unknown region, %s: metric label
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:502
+msgid "%d %s with unknown region"
+msgstr "%d %s con región desconocida"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:18
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:488
+msgid "Patterns enabled"
+msgstr "Patrones habilitados"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:18
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:476
+msgid "%d region with data"
+msgid_plural "%d regions with data"
+msgstr[0] "%d región con datos"
+msgstr[1] "%d regiones con datos"
+
+#. translators: %d: Number of locations that have data
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:18
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:470
+msgid "%d country with data"
+msgid_plural "%d countries with data"
+msgstr[0] "%d país con datos"
+msgstr[1] "%d países con datos"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:15
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:2
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:427
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:15
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:422
+msgid "Dismiss for 30 days"
+msgstr "Descartar por 30 días"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:15
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:392
+msgid "Region tracking is a new feature, so this data is only available for visits recorded after it was enabled."
+msgstr "El seguimiento de regiones es una nueva función, por lo que estos datos solo están disponibles para las visitas registradas después de que se habilitó."
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:15
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:380
+msgid "Region-level data is available for visits after %s."
+msgstr "Los datos a nivel de región están disponibles para visitas después de %s."
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:15
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:350
+msgid "Loading analytics…"
+msgstr "Cargando analítica..."
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:15
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:324
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:349
+msgid "Loading map data…"
+msgstr "Cargando datos del mapa..."
+
+#. translators: %s: Error message
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:15
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:312
+msgid "Error: %s"
+msgstr "Error: %s"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:14
+#: includes/Admin/App/src/components/Sources/WorldMap/MapBreadcrumbs.jsx:79
+msgctxt "aria label"
+msgid "Map navigation"
+msgstr "Navegación del mapa"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:14
+#: includes/Admin/App/src/components/Sources/WorldMap/MapBreadcrumbs.jsx:60
+msgctxt "button title"
+msgid "No previous page"
+msgstr "No hay página anterior"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:14
+#: includes/Admin/App/src/components/Sources/WorldMap/MapBreadcrumbs.jsx:59
+msgctxt "button title"
+msgid "Go back"
+msgstr "Volver"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:14
+#: includes/Admin/App/src/components/Sources/WorldMap/MapBreadcrumbs.jsx:26
+msgctxt "navigation item"
+msgid "World"
+msgstr "Mundo"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/PopoverFilter.js:152
+#: includes/Admin/App/src/components/Sources/WorldMap/MapSettingsPopover.jsx:159
+msgid "Select metric"
+msgstr "Seleccionar métrica"
+
+#: includes/Admin/Statistics/class-query-data.php:759
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:240
+msgid "State"
+msgstr "Estado"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/RecommendBadge.jsx:17
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: includes/Admin/Statistics/class-query-data.php:758
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:246
+msgid "City"
+msgstr "Ciudad"
+
+#: includes/Admin/Statistics/class-query-data.php:760
+#: includes/Admin/Statistics/class-query-data.php:761
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:252
+msgid "Continent"
+msgstr "Continente"
+
+#: includes/Admin/Statistics/class-query-data.php:753
+#: includes/Admin/Statistics/class-query-data.php:756
+msgid "Platform"
+msgstr "Plataforma"
+
+#. translators: %s: number of seconds
+#: includes/Frontend/class-shortcodes.php:518
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s segundo"
+msgstr[1] "%s segundos"
+
+#: includes/Frontend/class-shortcodes.php:345
+msgid "Error fetching statistics"
+msgstr "Error al obtener estadísticas"
+
+#: includes/Frontend/class-shortcodes.php:300
+msgid "Invalid statistic type"
+msgstr "Tipo de estadística no válido"
+
+#: includes/Admin/App/config/menu.php:127
+msgid "Secret Settings"
+msgstr "Configuraciones Secretas"
+
+#: includes/Admin/App/config/menu.php:121
+msgid "Secret"
+msgstr "Secreto"
+
+#: includes/Admin/App/config/menu.php:106
+msgid "Tracking behavior"
+msgstr "Seguimiento del comportamiento"
+
+#: includes/Admin/App/config/menu.php:102
+msgid "Tracking exclusions"
+msgstr "Exclusiones de seguimiento"
+
+#: includes/Admin/App/config/menu.php:28
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+msgid "Sources"
+msgstr "Fuentes"
+
+#: includes/Admin/App/config/fields.php:245
+msgid "Enable shortcodes"
+msgstr "Habilitar shortcodes"
+
+#: includes/Admin/App/config/fields.php:272
+msgid "Provides basic location insights. This uses a smaller database for faster tracking and less data storage."
+msgstr "Proporciona información básica sobre la ubicación. Esto utiliza una base de datos más pequeña para un seguimiento más rápido y un menor almacenamiento de datos."
+
+#: includes/Admin/App/config/fields.php:271
+msgid "Country only"
+msgstr "Solo país"
+
+#: includes/Admin/App/config/fields.php:267
+msgid "Provides detailed location data including city and region. This uses a larger database and may result in slightly slower tracking."
+msgstr "Proporciona datos de ubicación detallados, incluyendo ciudad y región. Esto utiliza una base de datos más grande y puede resultar en un seguimiento ligeramente más lento."
+
+#: includes/Admin/App/config/fields.php:266
+msgid "Country, City & Region details"
+msgstr "Detalles de país, ciudad y región"
+
+#: includes/Admin/App/config/fields.php:258
+msgid "Visitor location detail"
+msgstr "Detalle de ubicación del visitante"
+
+#: includes/Admin/App/config/fields.php:234
+msgid "Exclude IP addresses from being tracked"
+msgstr "Excluir direcciones IP del seguimiento"
+
+#: includes/TeamUpdraft/Onboarding/build/index.js:1
+#: includes/TeamUpdraft/Onboarding/src/components/Fields/Plugins.jsx:84
+msgid "Already installed"
+msgstr "Ya instalado"
+
+#: includes/TeamUpdraft/Onboarding/build/index.js:1
+#: includes/TeamUpdraft/Onboarding/src/components/Fields/Email.jsx:33
+msgid "Enter your e-mail address"
+msgstr "Introduce tu dirección de correo electrónico"
+
+#: includes/TeamUpdraft/Onboarding/build/index.js:1
+#: includes/TeamUpdraft/Onboarding/src/components/Fields/TrackingTest.jsx:243
+msgid "Successfully detected a visit on your site!"
+msgstr "¡Visita detectada con éxito en tu sitio!"
+
+#: includes/TeamUpdraft/Onboarding/build/index.js:1
+#: includes/TeamUpdraft/Onboarding/src/components/Fields/TrackingTest.jsx:240
+msgid "Unfortunately, Burst could not detect the test visit."
+msgstr "Desafortunadamente, Burst no pudo detectar la visita de prueba."
+
+#: includes/TeamUpdraft/Onboarding/build/index.js:1
+#: includes/TeamUpdraft/Onboarding/src/components/Fields/TrackingTest.jsx:237
+msgid "One more attempt, hang tight..."
+msgstr "Un intento más, aguanta..."
+
+#: includes/TeamUpdraft/Onboarding/build/index.js:1
+#: includes/TeamUpdraft/Onboarding/src/components/Fields/TrackingTest.jsx:236
+msgid "Hmm, let's try that again..."
+msgstr "Hmm, intentémoslo de nuevo..."
+
+#: includes/TeamUpdraft/Onboarding/build/index.js:1
+#: includes/TeamUpdraft/Onboarding/src/components/Fields/TrackingTest.jsx:235
+msgid "Running test, please wait..."
+msgstr "Ejecutando prueba, por favor espera..."
+
+#: includes/TeamUpdraft/Onboarding/build/index.js:1
+#: includes/TeamUpdraft/Onboarding/src/components/Fields/Checkbox.jsx:33
+msgid "Privacy Statement"
+msgstr "Declaración de privacidad"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/TeamUpdraft/Onboarding/build/index.js:1
+#: includes/TeamUpdraft/Onboarding/src/components/Fields/License.jsx:18
+msgid "Enter your license key here"
+msgstr "Introduce tu clave de licencia aquí"
+
+#: includes/TeamUpdraft/Other_Plugins/class-other-plugins.php:156
+msgid "Action could not be completed"
+msgstr "No se pudo completar la acción"
+
+#: includes/TeamUpdraft/Other_Plugins/class-other-plugins.php:153
+msgid "Unknown action"
+msgstr "Acción desconocida"
+
+#: includes/TeamUpdraft/Other_Plugins/class-other-plugins.php:110
+#: includes/TeamUpdraft/Other_Plugins/class-other-plugins.php:129
+msgid "You do not have permission to do this."
+msgstr "No tienes permiso para hacer esto."
+
+#: includes/TeamUpdraft/Other_Plugins/class-other-plugins.php:89
+#: includes/TeamUpdraft/Other_Plugins/class-other-plugins.php:116
+#: includes/TeamUpdraft/Other_Plugins/class-other-plugins.php:133
+msgid "Nonce verification failed"
+msgstr "La verificación del nonce falló"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:840
+msgid "An error occurred while installing the plugin."
+msgstr "Ocurrió un error al instalar el plugin."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:467
+msgid "Ready!"
+msgstr "¡Listo!"
+
+#. translators: 1: Plugin name to be installed.
+#: includes/Admin/AutoInstaller/class-auto-installer.php:466
+msgid "Installing %s..."
+msgstr "Instalando %s..."
+
+#. translators: 1: Plugin name to be installed.
+#: includes/Admin/AutoInstaller/class-auto-installer.php:464
+msgid "Ready to install %s!"
+msgstr "¡Listo para instalar %s!"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:430
+msgid "Start"
+msgstr "Iniciar"
+
+#: includes/Integrations/translations.php:127
+msgid "Submit button clicked"
+msgstr "Botón de enviar pulsado"
+
+#: includes/Integrations/translations.php:123
+msgid "Form submitted"
+msgstr "Formulario enviado"
+
+#: includes/Integrations/translations.php:113
+msgid "Donation completed"
+msgstr "Donación completada"
+
+#: includes/Integrations/translations.php:108
+msgid "Donation button"
+msgstr "Botón de donación"
+
+#: includes/Integrations/translations.php:104
+msgid "Open donation modal"
+msgstr "Abrir el modal de donación"
+
+#: includes/Integrations/translations.php:63
+#: includes/Integrations/translations.php:84
+msgid "Purchase button"
+msgstr "Botón de compra"
+
+#: includes/Integrations/translations.php:59
+#: includes/Integrations/translations.php:80
+msgid "Go to checkout"
+msgstr "Ir a la caja"
+
+#: includes/Integrations/translations.php:55
+#: includes/Integrations/translations.php:76
+msgid "Add to cart"
+msgstr "Añadir al carrito"
+
+#: includes/Integrations/translations.php:42
+msgid "Checkout button"
+msgstr "Botón de pago"
+
+#: includes/Integrations/translations.php:38
+msgid "Add to cart button"
+msgstr "Botón de añadir al carrito"
+
+#: includes/Admin/Burst_Onboarding/steps.php:157
+msgid "Go to the dashboard and explore Burst!"
+msgstr "Ve al panel de control y explora Burst!"
+
+#: includes/Admin/Burst_Onboarding/steps.php:153
+msgid "Premium support"
+msgstr "Soporte premium"
+
+#: includes/Admin/Burst_Onboarding/steps.php:152
+msgid "Track multiple goals to measure conversions"
+msgstr "Rastrea múltiples objetivos para medir conversiones"
+
+#: includes/Admin/Burst_Onboarding/steps.php:151
+msgid "Measure marketing campaigns with UTM tracking"
+msgstr "Mide las campañas de marketing con el seguimiento UTM"
+
+#: includes/Admin/Burst_Onboarding/steps.php:150
+msgid "See in which country your visitors are"
+msgstr "Descubre en qué país están tus visitantes"
+
+#: includes/Admin/Burst_Onboarding/steps.php:148
+msgid "All done, Awesome!"
+msgstr "¡Todo listo, increíble!"
+
+#: includes/Admin/Burst_Onboarding/steps.php:142
+msgid "Install and continue"
+msgstr "Instalar y continuar"
+
+#: includes/Admin/Burst_Onboarding/steps.php:137
+msgid "Install TeamUpdraft plugins"
+msgstr "Instalar plugins de TeamUpdraft"
+
+#: includes/Admin/Burst_Onboarding/steps.php:132
+msgid "Based on your website configuration, we recommend the following plugins:"
+msgstr "Según la configuración de tu sitio web, te recomendamos los siguientes plugins:"
+
+#: includes/Admin/Burst_Onboarding/steps.php:131
+msgid "Recommended for your setup"
+msgstr "Recomendado para tu configuración"
+
+#: includes/Admin/Burst_Onboarding/steps.php:106
+msgid "Stay up to date with your website's performance."
+msgstr "Mantente al día con el rendimiento de tu sitio web."
+
+#: includes/Admin/Burst_Onboarding/steps.php:105
+msgid "Receive weekly email reports"
+msgstr "Recibe informes semanales por correo electrónico"
+
+#: includes/Admin/Burst_Onboarding/steps.php:91
+msgid "Exclude administrators from being tracked"
+msgstr "Excluir a los administradores del seguimiento"
+
+#: includes/Admin/Burst_Onboarding/steps.php:80
+msgid "Excluding data gives a clearer picture of your website visitors."
+msgstr "Excluir datos ofrece una imagen más clara de los visitantes de tu sitio web."
+
+#: includes/Admin/Burst_Onboarding/steps.php:79
+msgid "Setup recommended settings"
+msgstr "Configurar ajustes recomendados"
+
+#: includes/Admin/Burst_Onboarding/steps.php:72
+msgid "Continue"
+msgstr "Continuar"
+
+#: includes/Admin/Burst_Onboarding/steps.php:62
+msgid "Please check your security settings."
+msgstr "Por favor, revisa tus configuraciones de seguridad."
+
+#: includes/Admin/Burst_Onboarding/steps.php:61
+msgid "Please clear your cache and try again."
+msgstr "Por favor, limpia tu caché e inténtalo de nuevo."
+
+#: includes/Admin/Burst_Onboarding/steps.php:58
+msgid "Let's check if tracking is setup correctly"
+msgstr "Verifiquemos si el seguimiento está configurado correctamente"
+
+#: includes/Admin/Burst_Onboarding/steps.php:29
+msgid "Activate your license to get access to all features, and easy plugin updates!"
+msgstr "¡Activa tu licencia para acceder a todas las funciones y obtener actualizaciones del plugin de manera sencilla!"
+
+#: includes/Admin/Burst_Onboarding/steps.php:28
+msgid "Activate your license"
+msgstr "Activa tu licencia"
+
+#: includes/Admin/Burst_Onboarding/steps.php:22
+msgid "Start onboarding"
+msgstr "Iniciar incorporación"
+
+#: includes/Admin/Burst_Onboarding/steps.php:19
+msgid "In a few steps, we'll help you activate your license and configure your Pro features."
+msgstr "En unos pocos pasos, te ayudaremos a activar tu licencia y configurar tus funciones Pro."
+
+#: includes/Admin/Burst_Onboarding/steps.php:18
+msgid "In a few steps, we'll help you select the best options and verify whether your website is tracking correctly."
+msgstr "En unos pocos pasos, te ayudaremos a seleccionar las mejores opciones y verificar si tu sitio web está rastreando correctamente."
+
+#: includes/Admin/Burst_Onboarding/steps.php:17
+msgid "Thanks for upgrading to Burst Pro!"
+msgstr "¡Gracias por actualizar a Burst Pro!"
+
+#: includes/Admin/Burst_Onboarding/steps.php:16
+msgid "Take a minute to configure Burst!"
+msgstr "Tómate un minuto para configurar Burst!"
+
+#. translators: %s is the user's IP address.
+#: includes/Admin/Burst_Onboarding/class-burst-onboarding.php:255
+msgid "Exclude your IP (%s) from being tracked"
+msgstr "Excluye tu IP (%s) para que no sea rastreada"
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/routes/settings.$settingsId.jsx:22
+msgid "Settings page not found"
+msgstr "Página de configuración no encontrada"
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/routes/settings.$settingsId.jsx:14
+msgid "Settings section not found"
+msgstr "Sección de configuración no encontrada"
+
+#: includes/Admin/App/build/258.df7e096fe424cde82270.js:1
+#: includes/Admin/App/src/routes/settings.$settingsId.jsx:51
+msgid "An error occurred loading settings"
+msgstr "Ocurrió un error al cargar la configuración"
+
+#: includes/Admin/App/build/540.748ae73795ccffb3a415.js:1
+#: includes/Admin/App/build/718.ac8350f40ab304e3f014.js:1
+#: includes/Admin/App/build/961.6aacece5b9386ad0b3ba.js:1
+#: includes/Admin/App/src/routes/sales.jsx:54
+#: includes/Admin/App/src/routes/sources.jsx:18
+#: includes/Admin/App/src/routes/statistics.jsx:16
+msgid "An error occurred loading statistics"
+msgstr "Ocurrió un error al cargar las estadísticas"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Settings/SettingsFooter.jsx:24
+msgid "You have unsaved changes"
+msgstr "Tienes cambios sin guardar"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Settings/SettingsGroupBlock.jsx:29
+msgid "This setting is exclusive to Pro users."
+msgstr "Esta configuración es exclusiva para usuarios Pro."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Settings/SettingsGroupBlock.jsx:27
+msgid "Unlock Advanced Features with Burst Pro"
+msgstr "Desbloquea funciones avanzadas con Burst Pro"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/Field.jsx:147
+msgid "Duplicate IP addresses found:"
+msgstr "Se encontraron direcciones IP duplicadas: "
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/Field.jsx:116
+msgid "Invalid IP address format:"
+msgstr "Formato de dirección IP no válido: "
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/Field.jsx:179
+msgid "Invalid format"
+msgstr "Formato no válido"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/Field.jsx:169
+msgid "This field is required"
+msgstr "Este campo es obligatorio"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/LogoEditorField.jsx:107
+msgid "Reset to Default"
+msgstr "Restablecer a los valores predeterminados"
+
+#: includes/Admin/Burst_Onboarding/steps.php:34
+msgid "Enter your license key"
+msgstr "Introduce tu clave de licencia"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:199
+msgid "Enter email address"
+msgstr "Introduce la dirección de correo electrónico"
+
+#: includes/Admin/class-admin.php:1170
+msgid "Your data securely on your own server."
+msgstr "Tus datos de forma segura en tu propio servidor."
+
+#: includes/Admin/class-admin.php:1169
+msgid "Asking consent for statistics often not required."
+msgstr "A menudo no se requiere pedir consentimiento para las estadísticas."
+
+#: includes/Admin/class-admin.php:1168
+msgid "You have access to your analytical data"
+msgstr "Tienes acceso a tus datos analíticos"
+
+#: includes/Admin/class-admin.php:1166
+msgid "Are you sure? With Burst Statistics active:"
+msgstr "¿Estás seguro? Con Burst Statistics activo:"
+
+#: includes/Admin/App/config/menu.php:86
+msgid "With Pro, you can archive old data to keep your dashboard clean and restore it anytime when needed. No more lost data. No more clutter. Just seamless control."
+msgstr "Con Pro, puedes archivar datos antiguos para mantener tu panel limpio y restaurarlos en cualquier momento cuando lo necesites. No más datos perdidos. No más desorden. Solo un control sin interrupciones."
+
+#: includes/Admin/App/config/fields.php:315
+msgid "Boost site speed by merging the Burst settings into the Burst script."
+msgstr "Aumenta la velocidad del sitio fusionando la configuración de Burst en el script de Burst."
+
+#: includes/Admin/App/config/fields.php:305
+msgid "URL changes such as parameters or fragments will be tracked as separate pageviews. Useful for single-page applications or dynamic websites."
+msgstr "Los cambios de URL, como parámetros o fragmentos, se registrarán como vistas de página separadas. Útil para aplicaciones de una sola página o sitios web dinámicos."
+
+#: includes/Admin/App/config/fields.php:235
+msgid "Enter one IP address per line"
+msgstr "Introduce una dirección IP por línea"
+
+#: includes/Admin/App/config/fields.php:194
+msgid "This will send an e-mail to all listed recipients."
+msgstr "Esto enviará un correo electrónico a todos los destinatarios listados."
+
+#: includes/Admin/App/config/fields.php:193
+msgid "Send an e-mail report"
+msgstr "Enviar un informe por correo electrónico"
+
+#: includes/Admin/App/config/fields.php:192
+msgid "Send"
+msgstr "Enviar"
+
+#: includes/Admin/App/config/fields.php:170
+msgid "Recommended size is 200 pixels by 70 pixels and try to keep the filesize under 200 kb."
+msgstr "El tamaño recomendado es de 200 píxeles por 70 píxeles y trata de mantener el tamaño del archivo por debajo de 200 kb."
+
+#: includes/Admin/App/config/fields.php:142
+msgid "Stop tracking visitors who have 'Do Not Track' enabled in their browser."
+msgstr "Dejar de rastrear a los visitantes que tienen activada la opción 'No rastrear' en su navegador."
+
+#: includes/Admin/App/config/fields.php:130
+msgid "Track visitors without cookies using browser & device info."
+msgstr "Rastrea a los visitantes sin cookies utilizando la información del navegador y del dispositivo."
+
+#: includes/Admin/App/config/fields.php:117
+msgid "Load the tracking script later for better pagespeed, could cause visitors who leave quickly to be missed."
+msgstr "Cargar el script de seguimiento más tarde para mejorar la velocidad de la página, podría hacer que se pierdan los visitantes que se van rápidamente."
+
+#: includes/Admin/App/class-app.php:1737
+msgid "No changes were made"
+msgstr "No se realizaron cambios"
+
+#: includes/Admin/App/class-app.php:1736
+msgid "Settings saved successfully"
+msgstr "Configuración guardada con éxito"
+
+#: includes/Admin/App/config/fields.php:151
+msgid "Dismiss all notices in your dashboard except critical ones"
+msgstr "Descarta todos los avisos de tu escritorio excepto los críticos"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/build/594.afb6547bb9d2a385e0f5.js:3
+#: includes/Admin/App/src/components/Dashboard/GoalsHeader.js:40
+#: includes/Admin/App/src/components/Fields/EditableTextField.jsx:73
+msgid "Untitled goal"
+msgstr "Objetivo sin título"
+
+#: includes/Admin/App/config/fields.php:304
+msgid "Track URL changes as separate pageviews"
+msgstr "Rastrea los cambios de URL como páginas vistas separadas"
+
+#: includes/Admin/App/config/tasks.php:32
+msgid "Last chance!"
+msgstr "¡Última oportunidad!"
+
+#: includes/Admin/App/config/tasks.php:32
+msgid "Cyber Monday"
+msgstr "Cyber Monday"
+
+#: includes/Admin/App/config/tasks.php:19
+msgid "Limited time offer!"
+msgstr "¡Oferta por tiempo limitado!"
+
+#: includes/Admin/App/config/tasks.php:19
+#: includes/Admin/App/config/tasks.php:32
+msgid "Get 40% Off Burst Pro!"
+msgstr "¡Consigue un 40% de descuento en Burst Pro!"
+
+#: includes/Admin/App/config/tasks.php:19
+msgid "Black Friday"
+msgstr "Black Friday"
+
+#: includes/Admin/class-tasks.php:289
+msgid "Sale"
+msgstr "Oferta"
+
+#: includes/Admin/App/config/goal-fields.php:40
+msgid "Track execution of a WordPress hook"
+msgstr "Seguimiento de la ejecución de un gancho de WordPress"
+
+#: includes/Admin/App/config/goal-fields.php:39
+msgid "Hook"
+msgstr "Gancho"
+
+#: includes/Integrations/translations.php:136
+#: includes/Integrations/translations.php:140
+#: includes/Integrations/translations.php:149
+#: includes/Integrations/translations.php:161
+#: includes/Integrations/translations.php:170
+#: includes/Integrations/translations.php:174
+#: includes/Integrations/translations.php:183
+#: includes/Integrations/translations.php:192
+msgid "Submit form"
+msgstr "Enviar el formulario"
+
+#: includes/Integrations/translations.php:96
+msgid "Subscription Cancelled"
+msgstr "Suscripción cancelada"
+
+#: includes/Integrations/translations.php:92
+msgid "Subscription Created"
+msgstr "Suscripción creada"
+
+#: includes/Integrations/translations.php:51
+#: includes/Integrations/translations.php:72
+msgid "Purchase"
+msgstr "Comprar"
+
+#: includes/Integrations/translations.php:34
+msgid "Payment Completed"
+msgstr "Pago completado"
+
+#: includes/Integrations/translations.php:30
+msgid "Order Created"
+msgstr "Pedido creado"
+
+#: includes/Integrations/translations.php:26
+msgid "Add to Cart"
+msgstr "Añadir al carrito"
+
+#: includes/Integrations/translations.php:13
+#: includes/Integrations/translations.php:17
+msgid "Form Submission"
+msgstr "Envío del formulario"
+
+#: includes/Admin/DB_Upgrade/class-db-upgrade.php:70
+msgid "For large databases this process may take a while. Your data will be tracked as usual."
+msgstr "En el caso de bases de datos grandes, este proceso puede tardar un poco. Tus datos serán rastreados como de costumbre."
+
+#. translators: %s: progress of the upgrade.
+#: includes/Admin/DB_Upgrade/class-db-upgrade.php:67
+msgid "An upgrade is running in the background, and is currently at %s."
+msgstr "Se está ejecutando una actualización en segundo plano, y actualmente se encuentra en %s."
+
+#. Author of the plugin
+#: burst.php
+msgid "Burst Statistics - Stats & Analytics for WordPress"
+msgstr "Burst Statistics - Estadísticas y análisis para WordPress"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:211
+msgid "Add to list"
+msgstr "Añadir a la lista"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:117
+msgid "Frequency"
+msgstr "Frecuencia"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:113
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:164
+msgid "No emails added yet"
+msgstr "Aún no se han añadido correos electrónicos"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:157
+msgid "Recipients will receive weekly or monthly reports with statistics about your website. Add or remove email addresses in the list below."
+msgstr "Los destinatarios recibirán informes semanales o mensuales con estadísticas acerca de tu sitio web. Añade o quita direcciones de correo electrónico de la lista de abajo."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:48
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:69
+msgid "Invalid email address"
+msgstr "Dirección de correo electrónico no válida"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:64
+msgid "Email address is required"
+msgstr "La dirección de correo electrónico es obligatoria"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:80
+msgid "Email address already added"
+msgstr "Dirección de correo electrónico ya añadida"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:74
+msgid "Maximum 10 emails allowed"
+msgstr "Máximo 10 correos electrónicos permitidos"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:38
+msgid "Monthly"
+msgstr "Mensualmente"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:37
+msgid "Weekly"
+msgstr "Semanalmente"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/LogoEditorField.jsx:43
+msgid "Set logo"
+msgstr "Establecer logotipo"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/LogoEditorField.jsx:42
+msgid "Select a logo"
+msgstr "Selecciona un logotipo"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:130
+#: includes/Admin/App/src/components/Fields/EmailReportsField.jsx:136
+msgid "Remove"
+msgstr "Eliminar"
+
+#: includes/Admin/class-tasks.php:292
+msgid "Update"
+msgstr "Actualizar"
+
+#: includes/Admin/App/config/fields.php:424
+#: includes/Admin/App/config/fields.php:425
+msgid "Reset statistics"
+msgstr "Restablecer estadísticas"
+
+#: includes/Admin/App/config/fields.php:420
+msgid "This action can not be undone."
+msgstr "Esta acción no puede deshacerse."
+
+#: includes/Admin/App/config/fields.php:420
+#: includes/Admin/App/config/fields.php:426
+msgid "This will permanently delete all statistics, goals, and goal statistics."
+msgstr "Esto borrará permanentemente todas las estadísticas, objetivos y estadísticas de objetivos."
+
+#: includes/Admin/App/config/fields.php:419
+msgid "Are you sure?"
+msgstr "¿Seguro?"
+
+#: includes/Admin/App/config/fields.php:169
+msgid "Change logo in the email reports"
+msgstr "Cambiar el logotipo en los informes por correo electrónico"
+
+#: includes/Admin/App/config/fields.php:160
+#: includes/Admin/App/config/menu.php:57
+msgid "Email reports"
+msgstr "Informes por correo electrónico"
+
+#: includes/Admin/Mailer/class-mailer.php:114
+msgid "Email address not valid"
+msgstr "Dirección de correo electrónico no válida"
+
+#: includes/Admin/Mailer/class-mailer.php:110
+msgid "Email could not be sent. No message or subject set."
+msgstr "No se ha podido enviar el correo electrónico. No se estableció ningún mensaje o asunto."
+
+#: includes/Admin/Mailer/class-mailer.php:72
+msgid "Explore your insights"
+msgstr "Revisa tus estadísticas"
+
+#. translators: %s is the website's domain name (e.g., example.com).
+#: includes/Admin/Mailer/class-mailer.php:70
+msgid "Dive deeper into your analytics and uncover new opportunities for %s."
+msgstr "Profundiza en tus analíticas y descubre nuevas oportunidades para los %s."
+
+#: includes/Admin/Mailer/class-mailer.php:68
+msgid "Find out more"
+msgstr "Saber más"
+
+#: includes/Admin/Mailer/class-mailer.php:54
+msgid "Why did I receive this email?"
+msgstr "¿Por qué he recibido este correo electrónico?"
+
+#: includes/Admin/Mailer/class-mailer.php:53
+msgid "This email was sent to"
+msgstr "Este correo electrónico se envió a"
+
+#: includes/Admin/Mailer/class-mailer.php:52
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:15
+#: includes/Admin/App/src/components/Settings/SettingsNotices.jsx:75
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:412
+msgid "Learn more"
+msgstr "Más información"
+
+#: includes/Admin/Mailer/class-mailer.php:49
+msgid "See full report"
+msgstr "Ver el informe completo"
+
+#: includes/Admin/Mailer/class-mailer.php:46
+msgid "If you don't want to receive these e-mails in your inbox, please go to the Burst settings page on your website and disable the email report setting or contact the administrator of your website."
+msgstr "Si no quieres recibir estos correos electrónicos en tu bandeja de entrada, por favor, ve a la página de ajustes de Burst en tu web y desactiva el ajuste de informes por correo electrónico o ponte en contacto con el administrador de tu sitio."
+
+#: includes/Admin/Mailer/class-mailer.php:45
+msgid "This e-mail is sent from your own WordPress website, which is:"
+msgstr "Este correo electrónico se envía desde tu propio sitio web WordPress, que es:"
+
+#: includes/Admin/Mailer/class-mail-reports.php:199
+msgid "vs. previous month"
+msgstr "frente al mes anterior"
+
+#: includes/Admin/Mailer/class-mail-reports.php:199
+msgid "vs. previous week"
+msgstr "frente a la semana anterior"
+
+#. translators: %s is the domain name (e.g., example.com).
+#. translators: %s is the domain name (e.g., example.com), HTML tags included
+#. for styling.
+#. translators: %s is the website's domain name (e.g., example.com).
+#. translators: %s is the website's domain name (e.g., example.com), used in
+#. HTML context.
+#: includes/Admin/Mailer/class-mail-reports.php:158
+#: includes/Admin/Mailer/class-mail-reports.php:160
+#: includes/Admin/Mailer/class-mailer.php:48
+#: includes/Admin/Mailer/class-mailer.php:51
+msgctxt "domain name"
+msgid "Your weekly insights for %s are here!"
+msgstr "¡Ya están aquí tus estadísticas semanales para %s!"
+
+#. translators: 1: start date, 2: end date.
+#: includes/Admin/Mailer/class-mail-reports.php:156
+msgid "This report covers the period from %1$s to %2$s."
+msgstr "Este informe cubre el período desde %1$s hasta %2$s."
+
+#. translators: %s is the domain name (e.g., example.com).
+#. translators: %s is the domain name (e.g., example.com), HTML tags included
+#. for styling.
+#: includes/Admin/Mailer/class-mail-reports.php:131
+#: includes/Admin/Mailer/class-mail-reports.php:133
+msgctxt "domain name"
+msgid "Your monthly insights for %s are here!"
+msgstr "¡Ya están aquí tus estadísticas mensuales para %s!"
+
+#: includes/Admin/class-admin.php:1285
+msgid "Successfully cleared data."
+msgstr "Datos borrados correctamente."
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:2
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/594.afb6547bb9d2a385e0f5.js:3
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:621
+#: includes/Admin/App/src/components/Dashboard/LiveTraffic.js:249
+msgid "Loading…"
+msgstr "Cargando"
+
+#: includes/Admin/Statistics/class-query-data.php:767
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:420
+msgid "Parameter"
+msgstr "Parámetro"
+
+#: includes/Admin/Statistics/class-query-data.php:768
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:414
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:427
+msgid "Parameters"
+msgstr "Parámetros"
+
+#: includes/Admin/Statistics/class-query-data.php:766
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:350
+msgid "Content"
+msgstr "Contenido"
+
+#: includes/Admin/Statistics/class-query-data.php:765
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:344
+msgid "Term"
+msgstr "Término"
+
+#: includes/Admin/Statistics/class-query-data.php:763
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:338
+msgid "Medium"
+msgstr "Medio"
+
+#: includes/Admin/Statistics/class-query-data.php:762
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:332
+msgid "Source"
+msgstr "Origen"
+
+#: includes/Admin/Mailer/class-mail-reports.php:258
+#: includes/Admin/Statistics/class-query-data.php:764
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:325
+msgid "Campaign"
+msgstr "Campaña"
+
+#: includes/Admin/App/config/goal-fields.php:97
+msgid "What hook do you want to track?"
+msgstr "¿Qué gancho deseas rastrear?"
+
+#: includes/Admin/App/Fields/class-fields.php:43
+msgid "Track all hits networkwide, and view them on the dashboard of your main site"
+msgstr "Haz un seguimiento de todas las visitas de la red y visualízalas en el escritorio de tu sitio principal"
+
+#: includes/Admin/App/config/fields.php:314
+msgid "Merge tracking settings and script"
+msgstr "Fusionar los ajustes de seguimiento y el script"
+
+#: includes/Admin/App/config/menu.php:110
+msgid "Scripts"
+msgstr "Scripts"
+
+#. translators: %s is the number of visitors tracked by Burst Statistics.
+#: includes/Admin/class-review.php:125
+msgid "Hi there! Your site is doing awesome! Burst Statistics has tracked %s visitors for you!"
+msgstr "¡Hola! ¡Tu sitio va de maravilla! ¡Burst Statistics ha rastreado %s visitantes para ti!"
+
+#: includes/Frontend/class-shortcodes.php:568
+msgid "No posts found"
+msgstr "No se han encontrado entradas"
+
+#. translators: %d is the number of times the page has been viewed.
+#: includes/Frontend/class-frontend.php:474
+msgid "This page has been viewed %d time."
+msgid_plural "This page has been viewed %d times."
+msgstr[0] "Esta página ha sido vista %d vez."
+msgstr[1] "Esta página ha sido vista %d veces."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:433
+msgid "Recommended by Burst Statistics"
+msgstr "Recomendado por Burst Statistics"
+
+#: includes/Admin/Statistics/class-statistics.php:301
+msgctxt "Week 1, as in Week number 1"
+msgid "Week"
+msgstr "Semana"
+
+#. Description of the plugin
+#: burst.php
+msgid "Get detailed insights into visitors’ behavior with Burst Statistics, the privacy-friendly analytics dashboard."
+msgstr "Obtén información detallada sobre el comportamiento de los visitantes con Burst Statistics, el escritorio de análisis respetuoso con la privacidad."
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:2
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/AdvancedFilter.js:86
+#: includes/Admin/App/src/components/Common/PopoverFilter.js:142
+#: includes/Admin/App/src/components/Sources/WorldMap/MapSettingsPopover.jsx:300
+msgid "Reset to defaults"
+msgstr "Restablecer a los valores por defecto"
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/ErrorBoundary.jsx:126
+msgid "Click %s to post your topic. Our team will look into the issue and provide assistance."
+msgstr "Haz clic en %s para publicar tu tema. Nuestro equipo estudiará el problema y te ayudará."
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/ErrorBoundary.jsx:119
+msgid "Description: Paste the copied error details and explain what you were doing when the error occurred."
+msgstr "Descripción: Pega los detalles del error copiado y explica qué estabas haciendo cuando se produjo el error."
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/ErrorBoundary.jsx:111
+msgid "Title: Mention %s along with a brief hint of the error."
+msgstr "Título: Menciona %s junto con una breve indicación del error."
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/ErrorBoundary.jsx:102
+msgid "Once logged in, click on %s under the Burst Statistics forum."
+msgstr "Una vez conectado, haz clic en %s en el foro de Burst Statistics."
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/ErrorBoundary.jsx:95
+msgid "If you haven’t already, log in to your WordPress.org account or create a new account."
+msgstr "Si aún no lo has hecho, accede a tu cuenta de WordPress.org o crea una cuenta nueva."
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/ErrorBoundary.jsx:88
+msgid "Navigate to the Support Forum."
+msgstr "Navega hasta el foro de soporte."
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/ErrorBoundary.jsx:68
+msgid "We're sorry for the trouble. Please take a moment to report this issue on the WordPress forums so we can work on fixing it. Here’s how you can report the issue:"
+msgstr "Lo sentimos por el problema. Por favor, tómate un momento para informar de esta incidencia en los foros de WordPress para que podamos trabajar en su corrección. Aquí tienes cómo puedes informar del problema:"
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/ErrorBoundary.jsx:76
+msgid "Copy the error details by clicking the %s button above."
+msgstr "Copia los detalles del error haciendo clic en el botón %s de arriba."
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/ErrorBoundary.jsx:64
+msgid "Copy Error"
+msgstr "Copiar el error"
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/ErrorBoundary.jsx:44
+msgid "Uh-oh! We stumbled upon an error."
+msgstr "¡Oh-oh! Nos hemos topado con un error."
+
+#: includes/Admin/Mailer/class-mail-reports.php:372
+#: includes/Admin/Statistics/class-query-data.php:750
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:88
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:185
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:270
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:362
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:439
+msgid "Bounce rate"
+msgstr "Tasa de rebote"
+
+#: includes/Admin/Statistics/class-query-data.php:747
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/hooks/useFilterDisplay.js:96
+msgid "New visitors"
+msgstr "Visitantes nuevos"
+
+#: includes/Admin/Statistics/class-goal-statistics.php:130
+msgid "Top performing page"
+msgstr "Página con mejores resultados"
+
+#: includes/Admin/App/config/goal-fields.php:107
+msgid "What metric do you want to use to calculate the conversion rate?"
+msgstr "¿Qué métrica quieres utilizar para calcular la tasa de conversión?"
+
+#: includes/Frontend/class-frontend-admin.php:94
+msgid "Go to dashboard"
+msgstr "Ir al escritorio"
+
+#: includes/Admin/Statistics/class-query-data.php:757
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:233
+msgid "Country"
+msgstr "País"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:478
+msgid "No archives"
+msgstr "No hay archivos"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:450
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:437
+msgid "Restore"
+msgstr "Restaurar"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:135
+msgid "Archiving disabled"
+msgstr "Archivado desactivado"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:131
+msgid "Because restoring files can conflict with the archiving functionality, archiving has been disabled."
+msgstr "Como la restauración de archivos puede entrar en conflicto con la funcionalidad de archivado, se ha desactivado el archivado."
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:422
+msgid "Download"
+msgstr "Descargar"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:402
+msgid "%s item selected"
+msgid_plural "%s items selected"
+msgstr[0] "%s elemento seleccionado"
+msgstr[1] "%s elementos seleccionados"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:340
+msgid "Size"
+msgstr "Tamaño"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:335
+msgid "Archive"
+msgstr "Archivo"
+
+#: includes/Admin/App/config/fields.php:407
+msgid "Please confirm the deletion, without the possibility to restore."
+msgstr "Por favor, confirma el borrado, sin posibilidad de restauración."
+
+#: includes/Admin/App/config/fields.php:395
+msgid "Retain data for how many months?"
+msgstr "¿Conservar los datos durante cuántos meses?"
+
+#. translators: %s is the current size of the database used by Burst, e.g. "10
+#. MB".
+#: includes/Admin/App/config/fields.php:386
+msgctxt "e.g. Burst currently uses 10 MB of your database."
+msgid "Burst currently uses %s of your database."
+msgstr "Burst utiliza actualmente %s de tu base de datos."
+
+#: includes/Admin/App/config/fields.php:384
+msgid "Choose how to manage old statistics"
+msgstr "Elige cómo gestionar las estadísticas antiguas"
+
+#: includes/Admin/App/config/fields.php:379
+msgid "Managing old data can optimize storage and improve site performance. Choose to archive or delete based on your needs."
+msgstr "Gestionar los datos antiguos puede optimizar el almacenamiento y mejorar el rendimiento del sitio. Elige archivar o borrar en función de tus necesidades."
+
+#: includes/Admin/App/config/fields.php:378
+msgid "Why should I manage old data?"
+msgstr "¿Por qué debo gestionar datos antiguos?"
+
+#: includes/Admin/App/config/fields.php:370
+msgid "Automatically Delete"
+msgstr "Borrar automáticamente"
+
+#: includes/Admin/App/config/fields.php:369
+msgid "Automatically Archive"
+msgstr "Archivar automáticamente"
+
+#: includes/Admin/App/config/fields.php:368
+msgid "Don't manage"
+msgstr "No gestionar"
+
+#: includes/Admin/App/config/menu.php:83
+msgid "Archived Data"
+msgstr "Datos archivados"
+
+#: includes/Admin/App/config/menu.php:79
+msgid "Archiving"
+msgstr "Archivando"
+
+#: includes/Admin/App/config/menu.php:75
+msgid "Data"
+msgstr "Datos"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Fields/EditableTextField.jsx:63
+msgid "Click to edit"
+msgstr "Haz clic para editar"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:14
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/594.afb6547bb9d2a385e0f5.js:3
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Dashboard/GoalStatus.js:22
+#: includes/Admin/App/src/components/Sources/WorldMap/WorldMap.jsx:217
+#: includes/Admin/App/src/components/Statistics/Flag.js:31
+#: includes/Admin/App/src/utils/formatting.js:285
+#: includes/Admin/App/src/utils/formatting.js:295
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: includes/Admin/Statistics/class-query-data.php:752
+#: includes/Admin/Statistics/class-query-data.php:755
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+msgid "Browser"
+msgstr "Navegador"
+
+#: includes/Admin/Statistics/class-query-data.php:751
+#: includes/Admin/Statistics/class-query-data.php:754
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+msgid "Device"
+msgstr "Dispositivo"
+
+#: includes/Admin/Statistics/class-goal-statistics.php:169
+msgid "Best performing device"
+msgstr "Dispositivo con mejor rendimiento"
+
+#: includes/Admin/Statistics/class-goal-statistics.php:167
+msgid "Not enough data"
+msgstr "Datos insuficientes"
+
+#: includes/Admin/Mailer/class-mail-reports.php:258
+#: includes/Admin/Statistics/class-goal-statistics.php:162
+msgid "Conversion rate"
+msgstr "Tasa de conversión"
+
+#: includes/Admin/App/config/goal-fields.php:87
+msgid "What element do you want to track?"
+msgstr "¿Qué elemento deseas rastrear?"
+
+#: includes/Admin/App/config/goal-fields.php:76
+msgid "Which specific page do you want to track?"
+msgstr "¿Qué página específica deseas rastrear?"
+
+#: includes/Admin/App/config/goal-fields.php:62
+msgid "Track on whole site"
+msgstr "Rastrear en todo el sitio"
+
+#: includes/Admin/App/config/goal-fields.php:61
+msgid "Website"
+msgstr "Web"
+
+#: includes/Admin/App/config/goal-fields.php:56
+msgid "Track page specific"
+msgstr "Rastrear página específica"
+
+#: includes/Admin/App/config/goal-fields.php:52
+msgid "Do you want to track a specific page or the entire website?"
+msgstr "¿Deseas hacer un seguimiento de una página concreta o toda la web?"
+
+#: includes/Admin/App/config/goal-fields.php:34
+msgid "Track visits to page"
+msgstr "Rastrear visitas a la página"
+
+#: includes/Admin/App/config/goal-fields.php:28
+msgid "Track views of element"
+msgstr "Rastrear visualizaciones del elemento"
+
+#: includes/Admin/App/config/goal-fields.php:22
+msgid "Track clicks on element"
+msgstr "Rastrear clics en el elemento"
+
+#: includes/Admin/App/config/goal-fields.php:18
+msgid "What type of goal do you want to set?"
+msgstr "¿Qué tipo de objetivo quieres marcarte?"
+
+#: includes/Admin/App/config/fields.php:208
+msgid "To set goals for a website, you need to identify the purpose of the site and the key actions you want visitors to take. Set measurable and achievable goals for each action and track your progress."
+msgstr "Para establecer los objetivos para un sitio web, necesitas identificar el propósito del sitio y las acciones clave que quieres que los visitantes realicen. Establece metas medibles y alcanzables para cada acción y rastrea tu progreso."
+
+#: includes/Admin/App/config/fields.php:207
+msgid "How to set goals?"
+msgstr "¿Cómo configurar objetivos?"
+
+#: includes/Frontend/Goals/class-goal.php:77
+#: includes/Frontend/Goals/class-goal.php:117
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Goals/GoalSetup.js:64
+msgid "New goal"
+msgstr "Nuevo objetivo"
+
+#: includes/Admin/App/config/goal-fields.php:27
+msgid "Views"
+msgstr "Vistas"
+
+#: includes/Admin/App/config/goal-fields.php:21
+msgid "Clicks"
+msgstr "Clics"
+
+#: includes/Admin/class-tasks.php:288
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/Header.jsx:265
+#: includes/Admin/App/src/components/Common/Pro.js:27
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/Admin/class-admin.php:895
+msgid "Default goal"
+msgstr "Objetivo por defecto"
+
+#: includes/Admin/App/config/fields.php:141
+msgid "Honor 'Do Not Track' requests"
+msgstr "Respeta las solicitudes de \"No rastrear (Do Not Track)\""
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/ShareButton.jsx:511
+msgid "Revoke"
+msgstr "Revocar"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Settings/SettingsNotices.jsx:38
+msgid "Collapse all"
+msgstr "Cerrar todo"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Settings/SettingsNotices.jsx:39
+msgid "Expand all"
+msgstr "Expandir todo"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Settings/SettingsNotices.jsx:45
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#: includes/Admin/Burst_Onboarding/steps.php:98
+#: includes/Admin/Burst_Onboarding/steps.php:124
+msgid "Save and continue"
+msgstr "Guardar y continuar"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/src/components/Fields/IpBlockField.jsx:120
+msgid "Add current IP address"
+msgstr "Añadir dirección IP actual"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:474
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:862
+msgid "All"
+msgstr "Todos"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:471
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:859
+#: includes/Admin/App/src/components/Statistics/EmptyDataTable.js:111
+#: includes/Admin/App/src/components/Statistics/EmptyDataTable.js:201
+msgid "of"
+msgstr "de"
+
+#: includes/Admin/Burst_Onboarding/steps.php:52
+#: includes/Admin/App/build/594.afb6547bb9d2a385e0f5.js:3
+#: includes/Admin/App/src/components/Dashboard/OtherPluginsBlock.js:16
+#: includes/Admin/App/src/components/Dashboard/OtherPluginsBlock.js:256
+#: includes/TeamUpdraft/Other_Plugins/build/index.js:1
+#: includes/TeamUpdraft/Other_Plugins/src/components/OtherPluginElement.js:16
+msgid "Activate"
+msgstr "Activar"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:575
+msgid "Could not rename folder!"
+msgstr "No se ha podido cambiar el nombre de la carpeta."
+
+#: includes/Admin/Statistics/class-query-data.php:740
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:166
+msgid "Referrer"
+msgstr "Remitente"
+
+#: includes/Admin/Statistics/class-statistics.php:234
+msgid "Average time on page"
+msgstr "Tiempo medio en la página"
+
+#: includes/Admin/Statistics/class-statistics.php:229
+msgid "Total pageviews"
+msgstr "Total de páginas vistas"
+
+#: includes/Admin/Statistics/class-statistics.php:226
+msgid "This website referred the most visitors."
+msgstr "Esta web fue la que más visitantes remitió."
+
+#: includes/Admin/Statistics/class-statistics.php:221
+msgid "This is your most viewed page for today."
+msgstr "Esta es la página más vista del día."
+
+#: includes/Admin/Statistics/class-statistics.php:216
+msgid "This is the total amount of unique visitors for today."
+msgstr "Esta es la cantidad total de visitantes únicos de hoy."
+
+#: includes/Admin/Statistics/class-statistics.php:212
+msgid "The amount of people using your website right now. The data updates every 5 seconds."
+msgstr "La cantidad de personas que utilizan tu sitio web en este momento. Los datos se actualizan cada 5 segundos."
+
+#: includes/Admin/Mailer/class-mail-reports.php:262
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:160
+msgid "Referrers"
+msgstr "Remitentes"
+
+#: includes/Admin/App/config/fields.php:204
+#: includes/Admin/App/config/menu.php:64 includes/Admin/App/config/menu.php:68
+#: includes/Admin/App/build/594.afb6547bb9d2a385e0f5.js:3
+#: includes/Admin/App/src/components/Dashboard/GoalsBlock.js:272
+#: includes/Admin/App/src/components/Dashboard/GoalsBlock.js:304
+msgid "Goals"
+msgstr "Objetivos"
+
+#: includes/Admin/App/config/fields.php:222
+msgid "You can exclude visitors by user role and IP address. This will affect new data only."
+msgstr "Puedes excluir visitantes por rol de usuario y dirección IP. Esto sólo afectará a los datos nuevos."
+
+#: includes/Admin/App/config/fields.php:221
+msgid "Excluding visitors"
+msgstr "Excluyendo visitantes"
+
+#: includes/Admin/App/config/fields.php:218
+msgid "Exclude user roles from being tracked"
+msgstr "Excluir perfiles de usuario del seguimiento"
+
+#: includes/Admin/App/config/menu.php:98
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: includes/Admin/App/config/menu.php:49 includes/Admin/App/config/menu.php:53
+msgid "General"
+msgstr "General"
+
+#: includes/Admin/class-tasks.php:286
+msgid "Error"
+msgstr "Error"
+
+#: includes/Admin/class-tasks.php:285
+msgid "Warning"
+msgstr "Advertencia"
+
+#: includes/Admin/class-tasks.php:284
+msgid "New!"
+msgstr "¡Novedad!"
+
+#: includes/Admin/App/config/fields.php:115
+msgid "Enable Turbo mode"
+msgstr "Activar el modo Turbo"
+
+#: includes/Admin/App/config/fields.php:128
+msgid "Enable Cookieless tracking"
+msgstr "Activar rastreo sin cookies"
+
+#: includes/Admin/Statistics/class-statistics.php:1126
+#: includes/Admin/Statistics/class-statistics.php:1139
+msgid "No pageviews"
+msgstr "No hay páginas vistas"
+
+#: includes/Admin/Statistics/class-statistics.php:1103
+#: includes/Admin/Statistics/class-statistics.php:1137
+msgid "No referrers"
+msgstr "No hay remitentes"
+
+#. Plugin Name of the plugin
+#: burst.php
+msgid "Burst Statistics - Privacy-Friendly Analytics for WordPress"
+msgstr "Burst Statistics - Análisis de privacidad para WordPress"
+
+#. translators: 1: opening anchor tag to the privacy statement, 2: closing
+#. anchor tag.
+#: includes/Admin/class-admin.php:862
+msgid "This website uses Burst Statistics, a Privacy-Friendly Statistics Tool to analyze visitor behavior. For this functionality we (this website) collect anonymized data, stored locally without sharing it with other parties. For more information, please read the %1$s Privacy Statement %2$s from Burst."
+msgstr "Este sitio web utiliza Burst Statistics, una herramienta de estadísticas amigable con la privacidad para analizar el comportamiento de los visitantes. Para esta funcionalidad, nosotros (este sitio web) recopilamos datos anonimizados, almacenados localmente sin compartirlos con otras partes. Para más información, por favor lee la %1$s Declaración de Privacidad %2$s de Burst."
+
+#. Plugin URI of the plugin
+#: burst.php
+msgid "https://www.wordpress.org/plugins/burst-statistics"
+msgstr "https://es.wordpress.org/plugins/burst-statistics"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/SearchButton.js:18
+#: includes/Admin/App/src/components/Fields/RestoreArchivesField.jsx:384
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:727
+msgid "Your license key has reached its activation limit."
+msgstr "Tu clave de licencia ha alcanzado el límite de activación."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:724
+msgid "This appears to be an invalid license key for this plugin."
+msgstr "Parece que se trata de una clave de licencia no válida para este plugin."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:721
+msgid "Your license is not active for this URL."
+msgstr "Tu licencia no está activa para esta URL."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:718
+msgid "Invalid license."
+msgstr "Licencia inválida."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:715
+msgid "Missing license."
+msgstr "Falta la licencia."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:712
+msgid "Your license key has been disabled."
+msgstr "Tu clave de licencia ha sido desactivada."
+
+#. translators: %s is the license expiration date, e.g. "April 30, 2025".
+#: includes/Admin/AutoInstaller/class-auto-installer.php:706
+msgid "Your license key expired on %s."
+msgstr "Tu clave de licencia expiró el %s."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:697
+#: includes/Admin/AutoInstaller/class-auto-installer.php:730
+msgid "An error occurred, please try again."
+msgstr "Se ha producido un error, por favor inténtalo de nuevo."
+
+#. translators: 1: opening anchor tag to the license page, 2: closing anchor
+#. tag.
+#: includes/Admin/AutoInstaller/class-auto-installer.php:501
+msgid "Check your %1$slicense%2$s."
+msgstr "Revisa tu %1$slicencia%2$s."
+
+#. translators: 1: opening anchor tag for manual install link, 2: closing
+#. anchor tag.
+#: includes/Admin/AutoInstaller/class-auto-installer.php:491
+msgid "Install %1$sManually%2$s."
+msgstr "Instala %1$sManualmente%2$s."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:486
+#: includes/Admin/AutoInstaller/class-auto-installer.php:496
+msgid "An Error Occurred:"
+msgstr "Se ha producido un error:"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:478
+msgid "Visit Dashboard"
+msgstr "Visitar Escritorio"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:330
+msgid "Installation finished"
+msgstr "Instalación terminada"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:305
+msgid "Failed to activate plugin"
+msgstr "Fallo en la activación del plugin"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:304
+msgid "Plugin activated"
+msgstr "Plugin activado"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:303
+msgid "Activating plugin..."
+msgstr "Activando el plugin..."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:298
+msgid "Failed to install plugin"
+msgstr "Fallo en la instalación del plugin"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:297
+msgid "Plugin installed"
+msgstr "Plugin instalado"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:296
+msgid "Installing plugin..."
+msgstr "Instalando el plugin..."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:291
+msgid "Failed to gather package information"
+msgstr "No se ha podido recoger la información del paquete"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:290
+msgid "Package information retrieved"
+msgstr "Información del paquete recuperada"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:289
+msgid "Retrieving package information..."
+msgstr "Recuperando la información del paquete..."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:284
+msgid "License invalid"
+msgstr "Licencia inválida"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:283
+msgid "License valid"
+msgstr "Licencia válida"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:282
+msgid "Validating license..."
+msgstr "Validando la licencia..."
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:277
+msgid "Destination folder already exists"
+msgstr "La carpeta de destino ya existe"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:276
+msgid "Able to create destination folder"
+msgstr "Posibilidad de crear una carpeta de destino"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:275
+msgid "Checking if plugin folder exists..."
+msgstr "Comprobando si la carpeta de plugins existe..."
+
+#: includes/Admin/App/class-app.php:1180
+#: includes/Admin/Statistics/class-goal-statistics.php:267
+#: includes/Frontend/class-shortcodes.php:429
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/api/getDevicesData.js:11
+#: includes/Admin/App/src/components/Statistics/DevicesBlock.js:52
+msgid "Other"
+msgstr "Otros"
+
+#: includes/Admin/App/class-app.php:1174
+#: includes/Admin/Statistics/class-goal-statistics.php:260
+#: includes/Frontend/class-shortcodes.php:428
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/api/getDevicesData.js:10
+#: includes/Admin/App/src/components/Statistics/DevicesBlock.js:51
+msgid "Mobile"
+msgstr "Móvil"
+
+#: includes/Admin/App/class-app.php:1177
+#: includes/Admin/Statistics/class-goal-statistics.php:263
+#: includes/Frontend/class-shortcodes.php:427
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/api/getDevicesData.js:9
+#: includes/Admin/App/src/components/Statistics/DevicesBlock.js:50
+msgid "Tablet"
+msgstr "Tableta"
+
+#: includes/Admin/App/class-app.php:1171
+#: includes/Admin/Statistics/class-goal-statistics.php:257
+#: includes/Frontend/class-shortcodes.php:426
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/api/getDevicesData.js:8
+#: includes/Admin/App/src/components/Statistics/DevicesBlock.js:49
+msgid "Desktop"
+msgstr "Ordenador"
+
+#: includes/Admin/Mailer/config/blocks.php:5
+msgid "Most visited pages"
+msgstr "Páginas más visitadas"
+
+#: includes/Admin/App/config/goal-fields.php:110
+#: includes/Admin/Mailer/class-mail-reports.php:369
+#: includes/Admin/Statistics/class-goal-statistics.php:153
+#: includes/Admin/Statistics/class-query-data.php:743
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/api/getCompareData.js:14
+#: includes/Admin/App/src/api/getCompareData.js:22
+#: includes/Admin/App/src/api/getCompareData.js:48
+#: includes/Admin/App/src/api/getCompareData.js:95
+#: includes/Admin/App/src/components/Statistics/CompareBlock.js:21
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:76
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:173
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:258
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:356
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:433
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:486
+#: includes/Admin/App/src/components/Statistics/InsightsHeader.js:14
+#: includes/Admin/App/src/store/useGeoStore.js:21
+msgid "Visitors"
+msgstr "Visitantes"
+
+#. translators: 1: opening anchor tag to support thread, 2: closing anchor tag.
+#: includes/Admin/App/config/tasks.php:47
+msgid "If you have any suggestions to improve our plugin, feel free to %1$sopen a support thread%2$s."
+msgstr "Si tienes alguna sugerencia para mejorar nuestro plugin, no dudes en %1$sabrir un hilo de soporte%2$s."
+
+#: includes/Admin/App/config/goal-fields.php:115
+#: includes/Admin/Mailer/class-mail-reports.php:366
+#: includes/Admin/Statistics/class-goal-statistics.php:143
+#: includes/Admin/Statistics/class-query-data.php:742
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/api/getCompareData.js:13
+#: includes/Admin/App/src/api/getCompareData.js:21
+#: includes/Admin/App/src/api/getCompareData.js:37
+#: includes/Admin/App/src/api/getCompareData.js:86
+#: includes/Admin/App/src/components/Statistics/CompareBlock.js:20
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:82
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:179
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:264
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:491
+#: includes/Admin/App/src/components/Statistics/InsightsHeader.js:18
+#: includes/Admin/App/src/store/useGeoStore.js:31
+msgid "Sessions"
+msgstr "Sesiones"
+
+#: includes/Admin/Statistics/class-statistics.php:1124
+#: includes/Frontend/class-shortcodes.php:401
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: includes/Admin/Mailer/class-mail-reports.php:422
+#: includes/Frontend/class-frontend-statistics.php:388
+#: includes/Frontend/class-shortcodes.php:407
+#: includes/Admin/App/build/594.afb6547bb9d2a385e0f5.js:3
+#: includes/Admin/App/src/components/Dashboard/LiveTraffic.js:22
+#: includes/Admin/App/src/components/Dashboard/LiveTraffic.js:29
+msgid "Direct"
+msgstr "Directo"
+
+#: includes/Admin/class-tasks.php:287
+msgid "Open"
+msgstr "Abrir"
+
+#: includes/Admin/class-tasks.php:283
+#: includes/Admin/App/build/594.afb6547bb9d2a385e0f5.js:3
+msgid "Completed"
+msgstr "Completado"
+
+#: includes/Admin/class-review.php:196
+msgid "Don't show again"
+msgstr "No volver a mostrar"
+
+#: includes/Admin/class-review.php:174
+msgid "Maybe later"
+msgstr "Tal vez más tarde"
+
+#: includes/Admin/class-review.php:163
+msgid "Leave a review"
+msgstr "Deja tu opinión"
+
+#: includes/Admin/class-review.php:156
+msgid "If you have a moment, please consider leaving a review on WordPress.org to spread the word. We greatly appreciate it!"
+msgstr "Si tienes un momento, considera la posibilidad de dejar una reseña en WordPress.org para hacer correr la voz. Te lo agradeceremos mucho!"
+
+#. translators: 1: opening anchor tag to the support message form, 2: closing
+#. anchor tag.
+#: includes/Admin/class-review.php:135
+msgid "If you have any questions or feedback, leave us a %1$smessage%2$s."
+msgstr "Si tienes alguna pregunta o comentario, déjanos un %1$smensaje%2$s."
+
+#: includes/Admin/class-review.php:127
+msgid "Hi, you have been using Burst for more than a month now, awesome!"
+msgstr "Hola, llevas más de un mes usando Burst, ¡impresionante!"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/src/components/Settings/SettingsFooter.jsx:60
+msgid "Save"
+msgstr "Guardar"
+
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/ErrorBoundary.jsx:63
+msgid "Copied"
+msgstr "Copiado"
+
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/TeamUpdraft/Onboarding/build/index.js:1
+#: includes/TeamUpdraft/Onboarding/src/components/Fields/Plugins.jsx:45
+msgid "No options found"
+msgstr "No se han encontrado opciones"
+
+#: includes/Admin/class-admin.php:1191
+msgid "Deactivate and delete all data"
+msgstr "Desactivar y borrar todos los datos"
+
+#: includes/Admin/class-admin.php:1189
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: includes/Admin/App/config/goal-fields.php:120
+#: includes/Admin/Mailer/class-mail-reports.php:254
+#: includes/Admin/Mailer/class-mail-reports.php:262
+#: includes/Admin/Mailer/class-mail-reports.php:363
+#: includes/Admin/Posts/class-posts.php:258
+#: includes/Admin/Statistics/class-goal-statistics.php:135
+#: includes/Admin/Statistics/class-query-data.php:741
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/api/getCompareData.js:12
+#: includes/Admin/App/src/api/getCompareData.js:20
+#: includes/Admin/App/src/api/getCompareData.js:28
+#: includes/Admin/App/src/api/getCompareData.js:77
+#: includes/Admin/App/src/components/Statistics/CompareBlock.js:19
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:71
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:482
+#: includes/Admin/App/src/components/Statistics/EmptyDataTable.js:80
+#: includes/Admin/App/src/components/Statistics/InsightsHeader.js:10
+msgid "Pageviews"
+msgstr "Páginas visitadas"
+
+#: includes/Admin/App/config/goal-fields.php:55
+#: includes/Admin/Mailer/class-mail-reports.php:254
+#: includes/Admin/Statistics/class-query-data.php:739
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Statistics/DataTableBlock.js:64
+msgid "Page"
+msgstr "Página"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:92
+#: includes/Admin/App/build/594.afb6547bb9d2a385e0f5.js:3
+#: includes/Admin/App/src/components/Dashboard/OtherPluginsBlock.js:15
+#: includes/TeamUpdraft/Other_Plugins/build/index.js:1
+#: includes/TeamUpdraft/Other_Plugins/src/components/OtherPluginElement.js:15
+msgid "Install"
+msgstr "Instalar"
+
+#: includes/Admin/App/class-app.php:272 includes/Admin/class-admin.php:914
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/Header.jsx:148
+#: includes/Admin/App/src/components/Common/ProPopover.js:73
+#: includes/Admin/App/src/components/Goals/GoalsSettings.js:200
+#: includes/Admin/App/src/components/Settings/SettingsGroupBlock.jsx:33
+msgid "Upgrade to Pro"
+msgstr "Actualizar a pro"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:96
+#: includes/Admin/App/build/594.afb6547bb9d2a385e0f5.js:3
+#: includes/Admin/App/src/components/Dashboard/OtherPluginsBlock.js:223
+#: includes/TeamUpdraft/Other_Plugins/build/index.js:1
+#: includes/TeamUpdraft/Other_Plugins/src/components/OtherPluginElement.js:65
+msgid "Installed"
+msgstr "Instalado"
+
+#: includes/Admin/App/class-app.php:730 includes/Admin/App/config/menu.php:8
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: includes/Admin/Mailer/config/blocks.php:12
+msgid "Top referrers"
+msgstr "Mejores referencias"
+
+#: includes/Admin/Mailer/class-mail-reports.php:198
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/components/Statistics/CompareBlock.js:53
+msgid "Compare"
+msgstr "Métricas"
+
+#: includes/Admin/App/config/menu.php:18
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:1
+#: includes/Admin/App/src/components/Statistics/InsightsBlock.js:47
+msgid "Insights"
+msgstr "Perspectivas"
+
+#: includes/Admin/App/config/goal-fields.php:33
+msgid "Visits"
+msgstr "Visitas"
+
+#: includes/Admin/App/class-app.php:181 includes/Admin/App/class-app.php:731
+#: includes/Frontend/class-frontend-admin.php:44
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: includes/Admin/class-admin.php:935
+#: includes/Admin/App/build/index.676f74a2a9fbbd5a2422.js:1
+#: includes/Admin/App/src/components/Common/Header.jsx:139
+msgid "Support"
+msgstr "Soporte"
+
+#: includes/Admin/App/class-app.php:732 includes/Admin/App/config/menu.php:39
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/Admin/AutoInstaller/class-auto-installer.php:481
+#: includes/Admin/class-admin.php:1187
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:1
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:10
+#: includes/Admin/App/src/components/Goals/DeleteGoalModal.js:32
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:12
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:2
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/components/Common/AdvancedFilter.js:78
+#: includes/Admin/App/src/components/Common/PopoverFilter.js:134
+#: includes/Admin/App/src/components/Sources/WorldMap/MapSettingsPopover.jsx:292
+msgid "Apply"
+msgstr "Aplicar"
+
+#: includes/Admin/Posts/class-posts.php:33
+#: includes/Admin/App/build/390.4929fd482e61c26174e4.js:14
+#: includes/Admin/App/build/466.cede3d64532bfb2ad561.js:19
+#: includes/Admin/App/build/521.81fdf710b8f7de66af03.js:13
+#: includes/Admin/App/build/594.afb6547bb9d2a385e0f5.js:3
+#: includes/Admin/App/build/875.eb9809fe93fad142ad2a.js:9
+#: includes/Admin/App/src/api/getGoalsData.js:124
+#: includes/Admin/App/src/components/Dashboard/GoalsBlock.js:48
+#: includes/Admin/App/src/components/Dashboard/GoalsBlock.js:135
+#: includes/Admin/App/src/components/Dashboard/TodayBlock.js:96
+#: includes/Admin/App/src/utils/formatting.js:324
+#: includes/Admin/Dashboard_Widget/build/index.js:1
+#: includes/Admin/Dashboard_Widget/src/components/DashboardWidget/DashboardWidget.js:159
+msgid "Today"
+msgstr "Hoy"
+
+#. Author URI of the plugin
+#: burst.php
+msgid "https://burst-statistics.com"
+msgstr "https://burst-statistics.com"

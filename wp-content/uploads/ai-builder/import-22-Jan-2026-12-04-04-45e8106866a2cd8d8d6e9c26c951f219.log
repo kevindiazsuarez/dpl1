@@ -1,0 +1,29 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Desactivado
+Operating System 	: Linux
+Software 		: Apache/2.4.58 (Ubuntu)
+MySQL version 		: 12.1.2
+XML Reader 		: Sí
+PHP Version 		: 8.4.17
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Sí
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 2 MB
+Memory Limit 		: 512M
+Timezone 		: Europe/Madrid
+
+-----
+
+Importing Started! - 00:06:38 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Deleted customizer Settings {"theme-auto-version":"4.12.1","is_theme_queue_running":false}
+Deleted - Site Options []
